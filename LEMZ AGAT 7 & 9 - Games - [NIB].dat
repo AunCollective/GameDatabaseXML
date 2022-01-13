@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>LEMZ AGAT 7 &amp; 9 - Games - [NIB]</name>
+		<description>LEMZ AGAT 7 &amp; 9 - Games - [NIB]</description>
+		<version>X</version>
+		<date>1/7/2022</date>
+		<author>auncollective</author>
+		<category>x</category>
+		<homepage>x</homepage>
+		<email>x</email>
+	</header>
+	<game name="Arkanoid (1990)(Zotov, K.)(ru)">
+		<description>Arkanoid (1990)(Zotov, K.)(ru)</description>
+		<rom name="Arkanoid (1990)(Zotov, K.)(ru),NIB" size="232960" crc="3D0DEB65" md5="3B276B411FF1060BC59B57E01AF150D0" sha1="DCA4194D7E4CCC70EB19B78EBEE60C4BDF3A5072"/>
+	</game>
+	<game name="Digger (1990)(Zotov, K.)(ru)">
+		<description>Digger (1990)(Zotov, K.)(ru)</description>
+		<rom name="Digger (1990)(Zotov, K.)(ru).NIB" size="232960" crc="B71741BD" md5="A293E0BD549F1094910BBE37C8DAC769" sha1="711D95679BC8925940400696F6C4C44EFAA832C1"/>
+	</game>
+	<game name="Fighter (1987)(Novoselov, I.V. aka Sverdlovsk, I.V.)(ru)">
+		<description>FIGHTER</description>
+		<rom name="FIGHTER.NIB" size="232960" crc="2D4855ED" md5="E067075236BFAE5DF9097F1B4765B641" sha1="F5EDAEB673CC97E0601708D887E58FE1E1D52CC9"/>
+	</game>
+	<game name="Gordon (aka Gorgona)(19xx)(USN)(ru)">
+		<description>Gordon (aka Gorgona)(19xx)(USN)(ru)</description>
+		<rom name="Gordon (aka Gorgona)(19xx)(USN)(ru).nib" size="232960" crc="86DBBEB0" md5="48F6853D0E8B647DEDCB1BC4B183FB82" sha1="1D7D442C6A8B3E420A7A3014626BF8D3F6BC243B"/>
+	</game>
+	<game name="H.E.R.O. (199x)(KOKORAAL)(ru)">
+		<description>H.E.R.O. (199x)(KOKORAAL)(ru)</description>
+		<rom name="H.E.R.O. (199x)(KOKORAAL)(ru).NIB" size="232960" crc="86C6D5F9" md5="CAD0F66DD52BFD1CDC538E4995169931" sha1="6808D71A6C9DEF21AC3FCCCAA1BAE926C80D1BBA"/>
+	</game>
+	<game name="HAG ICE (1991)(Zotov, K.)(ru)">
+		<description>HAG ICE (1991)(Zotov, K.)(ru)</description>
+		<rom name="HAG ICE (1991)(Zotov, K.)(ru).NIB" size="232960" crc="7360DAB2" md5="A0593787ADD7F23ED3469A4FAF7C31CB" sha1="005A1CAE6063C80CD12C7C49C6C8AE1CC2CC74D7"/>
+	</game>
+	<game name="HONIX (1986)(Volgograd, S.)(ru)">
+		<description>HONIX (1986)(Volgograd, S.)(ru)</description>
+		<rom name="HONIX (1986)(Volgograd, S.)(ru).NIB" size="232960" crc="23F03FCD" md5="F303282C5BF3C1CDC5280AE1BE81E15B" sha1="75EBEEF21B4A3FAAB53A86449B159D99ED7A09B5"/>
+	</game>
+	<game name="Lode Runner (1987)(ALV Software)(ru)">
+		<description>Lode Runner (1987)(ALV Software)(ru)</description>
+		<rom name="Lode Runner (1987)(ALV Software)(ru).NIB" size="232960" crc="2355AE96" md5="6FAE191586E5B39E38BE8BA2A1EB6305" sha1="9B1E1E8BEF481A7351B55619F6F845AB60893733"/>
+	</game>
+	<game name="Mario Bros (198x)( - )(ru)">
+		<description>Mario Bros (198x)( - )(ru)</description>
+		<rom name="Mario Bros (198x)( - )(ru).NIB" size="232960" crc="CEC8052B" md5="343E6CB4A8EAB9CEA80814CEDA482291" sha1="46F05E4211753E68EA0882DDF77F281CFC0255FC"/>
+	</game>
+	<game name="Mars (1988)(Leningrad Software Product)(ru)">
+		<description>Mars (1988)(Leningrad Software Product)(ru)</description>
+		<rom name="Mars (1988)(Leningrad Software Product)(ru).NIB" size="232960" crc="2CC242DB" md5="550767FA427424DBB7AF73DBDFCCFC89" sha1="CFD32F8E8CD077CBDF7F2041192F265DC9FF705C"/>
+	</game>
+	<game name="Moon Patrol (19xx)( - )(ru)">
+		<description>Moon Patrol (19xx)( - )(ru)</description>
+		<rom name="Moon Patrol (19xx)( - )(ru).NIB" size="232960" crc="C76BE859" md5="C24797B2B1DC4A509393B4EC0E398693" sha1="ABC7FE444BB174A1171F4CFEF5542FFFD99AE1A6"/>
+	</game>
+	<game name="Liberator, The (1988)(ALV Software)(ru)">
+		<description>Liberator, The (1988)(ALV Software)(ru)</description>
+		<rom name="Liberator, The (1988)(ALV Software)(ru).NIB" size="232960" crc="623DE50E" md5="89EE870C61368EF394B93C1BCFB124BE" sha1="069898F70A6DBFDFA1299FC52D7CF391F1611401"/>
+	</game>
+	<game name="Rock Stalker (198x)( - )(ru)">
+		<description>Rock Stalker (198x)( - )(ru)</description>
+		<rom name="Rock Stalker (198x)( - )(ru).nib" size="232960" crc="F40CC6B9" md5="32CAC44CA1C113641CD6CD3818B54951" sha1="1C4E2AED8B0D9729DDFEC39D96F3997545832682"/>
+	</game>
+	<game name="Sculptor (19xx)(Logos)(ru)">
+		<description>Sculptor (19xx)(Cheboksary Scientific)(ru)</description>
+		<rom name="Sculptor (19xx)(Cheboksary Scientific)(ru).NIB" size="232960" crc="0B3014E7" md5="1D8822C246258192C3E3512580A5F3E0" sha1="2C5F95632C2228820328D11EDBCA83B411ABD9BE"/>
+	</game>
+	<game name="Seldy (aka Ogija)(1990)(KOKORAAL)(ru)">
+		<description>Seldy (aka Ogija)(1990)(KOKORAAL)(ru)</description>
+		<rom name="Seldy (aka Ogija)(1990)(KOKORAAL)(ru).NIB" size="232960" crc="8C275053" md5="4BB3114CFB34D030E05C6C8E395BA3B0" sha1="DBC2FC5C83D1E5C7E2D8401E4F4E5B55DED68E1D"/>
+	</game>
+	<game name="Krysinyj labirint (1988) &amp; Sprut (1989) -(Leningrad Software Product)(ru)">
+		<description>Krysinyj labirint (1988) &amp; Sprut (1989) -(Leningrad Software Product)(ru)</description>
+		<rom name="Krysinyj labirint (1988) &amp; Sprut (1989) -(Leningrad Software Product)(ru).nib" size="232960" crc="517F4A7E" md5="0D9AF30FB29A311639AEB3B2D5C65A2A" sha1="B6A46381E55EA2E9AC48CB11D6FA9002D901F6FA"/>
+	</game>
+	<game name="Stanok (aka Machine) (198x)(ShPaNa)(ru)">
+		<description>Stanok (aka Machine) (198x)(ShPaNa)(ru)</description>
+		<rom name="Stanok (aka Machine) (198x)(ShPaNa)(ru).NIB" size="232960" crc="96EA8304" md5="DE6297D2AD724E58AEB00B166190FE7A" sha1="1BF66F64C30978DE27913487EC54B381ABE8ABF7"/>
+	</game>
+	<game name="Stena (aka Wall) (1989)(Logos)(ru)">
+		<description>Stena (aka Wall) (1989)(Logos)(ru)</description>
+		<rom name="Stena (aka Wall) (1989)(Logos)(ru).NIB" size="232960" crc="FB952095" md5="506FE4B0D5DB6078F26B84BF6C7E0BC7" sha1="F0EF6C30ACF8D60B8D06D6019D600FD213E9194C"/>
+	</game>
+	<game name="Černyj Pojas (1989)(Koreshkov, Andrey)(ru)">
+		<description>Černyj Pojas (1989)(Koreshkov, Andrey)(ru)</description>
+		<rom name="Černyj Pojas (1989)(Koreshkov, Andrey)(ru)" size="0" crc="1D3AE335" md5="7B07CFFECEE046B5C51620E7F24CCE1E" sha1="F76476845AE5D150413BDF4D9236739127B0F815"/>
+	</game>
+</datafile>

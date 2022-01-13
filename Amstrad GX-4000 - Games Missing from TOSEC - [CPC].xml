@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>Amstrad GX4000 - Games missing from tosec</name>
+		<description>Amstrad GX4000 - Games missing from tosec</description>
+		<version></version>
+		<date>1/9/2022</date>
+		<author></author>
+		<category></category>
+		<homepage></homepage>
+		<email></email>
+	</header>
+	<game name="Barbarian II (1990)(Ocean)">
+		<description>Barbarian II (1990)(Ocean)</description>
+		<rom name="Barbarian II (1990)(Ocean).cpr" size="131148" crc="07E0045E"/>
+	</game>
+	<game name="Batman - The Movie (1990)(Ocean)">
+		<description>Batman - The Movie (1990)(Ocean)</description>
+		<rom name="Batman - The Movie (1990)(Ocean).cpr" size="524556" crc="E039FA68"/>
+	</game>
+	<game name="Burnin&apos; Rubber (1990)(Ocean)">
+		<description>Burnin&apos; Rubber (1990)(Ocean)</description>
+		<rom name="Burnin&apos; Rubber (1990)(Ocean).cpr" size="131148" crc="3130AF05"/>
+	</game>
+	<game name="Copter 271 (1991)(Loriciel)">
+		<description>Copter 271 (1991)(Loriciel)</description>
+		<rom name="Copter 271 (1991)(Loriciel).bin" size="131072" crc="3F9D0682"/>
+	</game>
+	<game name="Crazy Cars II (1990)(Titus)">
+		<description>Crazy Cars II (1990)(Titus)</description>
+		<rom name="Crazy Cars II (1990)(Titus).cpr" size="524556" crc="ABF053E2"/>
+	</game>
+	<game name="Dick Tracy (1990)(Titus)">
+		<description>Dick Tracy (1990)(Titus)</description>
+		<rom name="Dick Tracy (1990)(Titus).cpr" size="131148" crc="016139D8"/>
+	</game>
+	<game name="Fire and Forget II (1990)(Titus)">
+		<description>Fire and Forget II (1990)(Titus)</description>
+		<rom name="Fire and Forget II (1990)(Titus).cpr" size="131148" crc="E5A01687"/>
+	</game>
+	<game name="Klax (1990)(Domark)">
+		<description>Klax (1990)(Domark)</description>
+		<rom name="Klax (1990)(Domark).cpr" size="131156" crc="FA33B29C"/>
+	</game>
+	<game name="Mystical (1990)(Infogrames)">
+		<description>Mystical (1990)(Infogrames)</description>
+		<rom name="Mystical (1990)(Infogrames).cpr" size="131148" crc="94D44C07"/>
+	</game>
+	<game name="Navy Seals (1990)(Ocean)">
+		<description>Navy Seals (1990)(Ocean)</description>
+		<rom name="Navy Seals (1990)(Ocean).cpr" size="524556" crc="DE3A4FF6"/>
+	</game>
+	<game name="No Exit (1990)(Tomahawk)">
+		<description>No Exit (1990)(Tomahawk)</description>
+		<rom name="No Exit (1990)(Tomahawk).cpr" size="524556" crc="DE25EE9D"/>
+	</game>
+	<game name="Operation Thunderbolt (1990)(Ocean)">
+		<description>Operation Thunderbolt (1990)(Ocean)</description>
+		<rom name="Operation Thunderbolt (1990)(Ocean).cpr" size="524556" crc="AB7CC2F4"/>
+	</game>
+	<game name="Pang (1990)(Ocean)">
+		<description>Pang (1990)(Ocean)</description>
+		<rom name="Pang (1990)(Ocean).cpr" size="524556" crc="87632953"/>
+	</game>
+	<game name="Panza Kick Boxing (1991)(Loriciel)">
+		<description>Panza Kick Boxing (1991)(Loriciel)</description>
+		<rom name="Panza Kick Boxing (1991)(Loriciel).cpr" size="131148" crc="8DACBEEE"/>
+	</game>
+	<game name="Plotting (1990)(Ocean)">
+		<description>Plotting (1990)(Ocean)</description>
+		<rom name="Plotting (1990)(Ocean).cpr" size="524556" crc="625D92D6"/>
+	</game>
+	<game name="Pro Tennis Tour (1990)(Ubisoft)">
+		<description>Pro Tennis Tour (1990)(Ubisoft)</description>
+		<rom name="Pro Tennis Tour (1990)(Ubisoft).cpr" size="524556" crc="6A647A82"/>
+	</game>
+	<game name="Robocop 2 (1990)(Ocean)">
+		<description>Robocop 2 (1990)(Ocean)</description>
+		<rom name="Robocop 2 (1990)(Ocean).cpr" size="524556" crc="0BA0DC98"/>
+	</game>
+	<game name="Skeet Shoot (1990)(Trojan)">
+		<description>Skeet Shoot (1990)(Trojan)</description>
+		<rom name="Skeet Shoot (1990)(Trojan).cpr" size="131148" crc="D6B2D425"/>
+	</game>
+	<game name="Super Pinball Magic (1991)(Loricel)">
+		<description>Super Pinball Magic (1991)(Loricel)</description>
+		<rom name="Super Pinball Magic (1991)(Loricel).cpr" size="131148" crc="E826AB81"/>
+	</game>
+	<game name="Switchblade (1990)(Gremlin)">
+		<description>Switchblade (1990)(Gremlin)</description>
+		<rom name="Switchblade (1990)(Gremlin).cpr" size="131156" crc="29E71F0C"/>
+	</game>
+	<game name="Tennis Cup 2 (1990)(Loriciel)">
+		<description>Tennis Cup 2 (1990)(Loriciel)</description>
+		<rom name="Tennis Cup 2 (1990)(Loriciel).cpr" size="131148" crc="A5625F6C"/>
+	</game>
+	<game name="The Enforcer (1990)(Trojan)">
+		<description>The Enforcer (1990)(Trojan)</description>
+		<rom name="The Enforcer (1990)(Trojan).cpr" size="131148" crc="74EC2EAF"/>
+	</game>
+	<game name="Wild Streets (1990)(Titus)">
+		<description>Wild Streets (1990)(Titus)</description>
+		<rom name="Wild Streets (1990)(Titus).cpr" size="524556" crc="946C80B4"/>
+	</game>
+	<game name="World of Sports (1990)(Epyx)">
+		<description>World of Sports (1990)(Epyx)</description>
+		<rom name="World of Sports (1990)(Epyx).cpr" size="131156" crc="541F78AE"/>
+	</game>
+</datafile>

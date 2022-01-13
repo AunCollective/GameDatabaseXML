@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>BYOND - Games</name>
+		<description>BYOND - Games</description>
+		<version>0.1a</version>
+		<date>1/11/2022</date>
+		<author>Aun Egg</author>
+		<category>Development Platforms/Communities</category>
+		<homepage>https://www.auncollective.org</homepage>
+		<email>aunegg@auncollective.org</email>
+	</header>
+	<game name="2 Fast 2 Furious (2006)(Shadow111)">
+		<description>2 Fast 2 Furious (2006)(Shadow111)</description>
+		<rom name="2 Fast 2 Furious (2006)(Shadow111).zip" size="578886" crc="C5E7AE38"/>
+	</game>
+	<game name="90 seconds (2009-12-24)(Kisioj)">
+		<description>90 seconds (2009-12-24)(Kisioj)</description>
+		<rom name="90 seconds (2009-12-24)(Kisioj).zip" size="297459" crc="BFF8113F"/>
+	</game>
+	<game name="Acid Rain 2 (2010-06-22)(El Wookie)">
+		<description>Acid Rain 2 (2010-06-22)(El Wookie)</description>
+		<rom name="Acid Rain 2 (2010-06-22)(El Wookie).7z" size="44855" crc="DC95D4CA"/>
+	</game>
+	<game name="Alagaesia - Trails of Tomorrow (2011-01)(akiyo)">
+		<description>Alagaesia - Trails of Tomorrow (2011-01)(akiyo)</description>
+		<rom name="Alagaesia - Trails of Tomorrow (2011-01)(akiyo).zip" size="268231" crc="026E1598"/>
+	</game>
+	<game name="Alphabet (2009-06-14)(Aries)(LastUpdate-2011-05-28)">
+		<description>Alphabet (2009-06-14)(Aries)(LastUpdate-2011-05-28)</description>
+		<rom name="Alphabet (2009-06-14)(Aries)(LastUpdate-2011-05-28).zip" size="7408" crc="4B64856B"/>
+	</game>
+	<game name="Angel Falls (2011)(Teka123)">
+		<description>Angel Falls (2011)(Teka123)</description>
+		<rom name="Angel Falls (2011)(Teka123).zip" size="5265042" crc="11A4B2B7"/>
+	</game>
+	<game name="Avalon Online (2021-09-11)(taint_thewizard)">
+		<description>Avalon Online (2021-09-11)(taint_thewizard)</description>
+		<rom name="Avalon Online (2021-09-11)(taint_thewizard).zip" size="17536403" crc="C9560202"/>
+	</game>
+	<game name="Azusa Online (2019-01-30)(Unutaishos)(Steam ver de 2022-01-10)">
+		<description>Azusa Online (2019-01-30)(Unutaishos)(Steam ver de 2022-01-10)</description>
+		<rom name="Azusa Online (2019-01-30)(Unutaishos)(Steam ver de 2022-01-10).zip" size="87148754" crc="CABF1CEC"/>
+	</game>
+	<game name="Box Zombies (2019-09-28)(falacy)">
+		<description>Box Zombies (2019-09-28)(falacy)</description>
+		<rom name="Box Zombies (2019-09-28)(falacy).zip" size="7535728" crc="D1F83D05"/>
+	</game>
+	<game name="Casual Quest (2010-09-18)(IainPeregrine)(LastUpdated2014)">
+		<description>Casual Quest (2010-09-18)(IainPeregrine)(LastUpdated2014)</description>
+		<rom name="Casual Quest (2010-09-18)(IainPeregrine)(LastUpdated2014).zip" size="633284" crc="1C7C7CD9"/>
+	</game>
+	<game name="Creators World (2021)(Luke555)">
+		<description>Creators World (2021)(Luke555)</description>
+		<rom name="Creators World (2021)(Luke555).zip" size="1125945" crc="55A84FC6"/>
+	</game>
+	<game name="DeadandWalking (2006)(Aeon_nova)(LastUpdate-2016)">
+		<description>DeadandWalking (2006)(Aeon_nova)(LastUpdate-2016)</description>
+		<rom name="DeadandWalking (2006)(Aeon_nova)(LastUpdate-2016).zip" size="7874114" crc="DAE1C81D"/>
+	</game>
+	<game name="DeathRace (2007)(ATP)(LastUpdated-2008)">
+		<description>DeathRace (2007)(ATP)(LastUpdated-2008)</description>
+		<rom name="DeathRace (2007)(ATP)(LastUpdated-2008).zip" size="44894" crc="0ED95974"/>
+	</game>
+	<game name="Destiny PVP (2019-06-16)(King zelda)(Patched 2022-01-10)">
+		<description>Destiny PVP (2019-06-16)(King zelda)(Patched 2022-01-10)</description>
+		<rom name="Destiny PVP (2019-06-16)(King zelda)(Patched 2022-01-10).zip" size="3383151" crc="9C429F44"/>
+	</game>
+	<game name="Dragon Destiny v3(2020-07-01)(King zelda)">
+		<description>Dragon Destiny v3(2020-07-01)(King zelda)</description>
+		<rom name="Dragon Destiny v3(2020-07-01)(King zelda).zip" size="3495371" crc="78FA51D5"/>
+	</game>
+	<game name="DrawIt(2013-09-23)(kidpaddle45)">
+		<description>DrawIt(2013-09-23)(kidpaddle45)</description>
+		<rom name="DrawIt(2013-09-23)(kidpaddle45).zip" size="172575" crc="454FD4FE"/>
+	</game>
+	<game name="Dying Breed, The (2015)(MrRJT)">
+		<description>Dying Breed, The (2015)(MrRJT)</description>
+		<rom name="Dying Breed, The (2015)(MrRJT).zip" size="256976" crc="56F530A1"/>
+	</game>
+	<game name="Excel Rayne (mistamage123)(updated-to-2022-01-11)">
+		<description>Excel Rayne (mistamage123)(updated-to-2022-01-11)</description>
+		<rom name="Excel Rayne (mistamage123)(updated-to-2022-01-11).zip" size="44688520" crc="2534B8E6"/>
+	</game>
+	<game name="Extreme Combat Siblings(2010)(Oondivinezin)(LastUpdated-2021-09)">
+		<description>Extreme Combat Siblings(2010)(Oondivinezin)(LastUpdated-2021-09)</description>
+		<rom name="Extreme Combat Siblings(2010)(Oondivinezin)(LastUpdated-2021-09).zip" size="32778609" crc="41525725"/>
+	</game>
+	<game name="FART  (2013-07-07)(a2j2tiwari)(updated thru 2021-05-19)">
+		<description>FART  (2013-07-07)(a2j2tiwari)(updated thru 2021-05-19)</description>
+		<rom name="FART  (2013-07-07)(a2j2tiwari)(updated thru 2021-05-19).zip" size="7555382" crc="74F060F1"/>
+	</game>
+	<game name="Gold Guardians(2012-02-07)(Falacy)">
+		<description>Gold Guardians(2012-02-07)(Falacy)</description>
+		<rom name="Gold Guardians(2012-02-07)(Falacy).zip" size="132887" crc="BF9017A2"/>
+	</game>
+	<game name="Hunter X Hunter Online (2014-10)(TheDarkChakra)">
+		<description>Hunter X Hunter Online (2014-10)(TheDarkChakra)</description>
+		<rom name="Hunter X Hunter Online (2014-10)(TheDarkChakra).zip" size="629905" crc="CAA65075"/>
+	</game>
+	<game name="Icon Ultima(2003)(Enigmaster2002)(LastUpdate-2016)">
+		<description>Icon Ultima(2003)(Enigmaster2002)(LastUpdate-2016)</description>
+		<rom name="Icon Ultima(2003)(Enigmaster2002)(LastUpdate-2016).zip" size="477122" crc="85B492BE"/>
+	</game>
+	<game name="Immortal Dream (2013-03)(bloodocean7)">
+		<description>Immortal Dream (2013-03)(bloodocean7)</description>
+		<rom name="Immortal Dream (2013-03)(bloodocean7).zip" size="43489" crc="AD7DACC3"/>
+	</game>
+	<game name="Invasion (2011-06-03)(Leur)">
+		<description>Invasion (2011-06-03)(Leur)</description>
+		<rom name="Invasion (2011-06-03)(Leur).zip" size="7717" crc="53CFE949"/>
+	</game>
+	<game name="Jack O&apos; Lantern GIAD Edition (2016-10)(Bancock)">
+		<description>Jack O&apos; Lantern GIAD Edition (2016-10)(Bancock)</description>
+		<rom name="Jack O&apos; Lantern GIAD Edition (2016-10)(Bancock).zip" size="41143" crc="56F26F74"/>
+	</game>
+	<game name="KillCarts (2007)(ATP)">
+		<description>KillCarts (2007)(ATP)</description>
+		<rom name="KillCarts (2007)(ATP).zip" size="24694" crc="520FEF95"/>
+	</game>
+	<game name="Last Conflict, The (2007-08)(Darker Emerald)">
+		<description>Last Conflict, The (2007-08)(Darker Emerald)</description>
+		<rom name="Last Conflict, The (2007-08)(Darker Emerald).7z" size="47178482" crc="4E81E8FC"/>
+	</game>
+	<game name="Legend of Zelda Chatroom (2003-06) (bobjr)">
+		<description>Legend of Zelda Chatroom (2003-06) (bobjr)</description>
+		<rom name="Legend of Zelda Chatroom (2003-06) (bobjr).7z" size="42640" crc="5D8A2E01"/>
+	</game>
+	<game name="Lexiconomy (2000)(Zilal)">
+		<description>Lexiconomy (2000)(Zilal)</description>
+		<rom name="Lexiconomy (2000)(Zilal).zip" size="311108" crc="9E2B2E7B"/>
+	</game>
+	<game name="Nestalgia (2014-04-15)(Silk Games)(LastPatched-2021-12-29)">
+		<description>Nestalgia (2014-04-15)(Silk Games)(LastPatched-2021-12-29)</description>
+		<rom name="Nestalgia (2014-04-15)(Silk Games)(LastPatched-2021-12-29).zip" size="56206020" crc="6B7C024C"/>
+	</game>
+	<game name="NEStalgia (2014-04-15)(Silk Games)[Steam Ver de 2022-01-10]">
+		<description>NEStalgia (2014-04-15)(Silk Games)[Steam Ver de 2022-01-10]</description>
+		<rom name="NEStalgia (2014-04-15)(Silk Games)[Steam Ver de 2022-01-10].zip" size="159640147" crc="94C93DBD"/>
+	</game>
+	<game name="Ninja Team v1.2 (2010-09-30)(F0lak)(Release Client)">
+		<description>Ninja Team v1.2 (2010-09-30)(F0lak)(Release Client)</description>
+		<rom name="Ninja Team v1.2 (2010-09-30)(F0lak)(Release Client).zip" size="1577542" crc="4D81A9DE"/>
+	</game>
+	<game name="Paradise City 2.0 (201x)(Falacy)">
+		<description>Paradise City 2.0 (201x)(Falacy)</description>
+		<rom name="Paradise City 2.0 (201x)(Falacy).zip" size="8463770" crc="3AAABD69"/>
+	</game>
+	<game name="Pokemon Arena(2009-03-14)(blah)">
+		<description>Pokemon Arena(2009-03-14)(blah)</description>
+		<rom name="Pokemon Arena(2009-03-14)(blah).zip" size="3323151" crc="748C3A99"/>
+	</game>
+	<game name="Pokemon Evolution (2011-02)(damion10000)">
+		<description>Pokemon Evolution (2011-02)(damion10000)</description>
+		<rom name="Pokemon Evolution (2011-02)(damion10000).7z" size="3490596" crc="7F4D6B34"/>
+	</game>
+	<game name="Pokemon Trident (2009-07)(bleachninja)">
+		<description>Pokemon Trident (2009-07)(bleachninja)</description>
+		<rom name="Pokemon Trident (2009-07)(bleachninja).zip" size="4895998" crc="E318723E"/>
+	</game>
+	<game name="Pokemon-Evolution (2008-07)(dark0zone)">
+		<description>Pokemon-Evolution (2008-07)(dark0zone)</description>
+		<rom name="Pokemon-Evolution (2008-07)(dark0zone).7z" size="306" crc="6725F0EE"/>
+	</game>
+	<game name="Pondera (2021-11-12)(AER)">
+		<description>Pondera (2021-11-12)(AER)</description>
+		<rom name="Pondera (2021-11-12)(AER).zip" size="4655321" crc="22B87AA1"/>
+	</game>
+	<game name="Radioactivity (201x)(Kisioj)">
+		<description>Radioactivity (201x)(Kisioj)</description>
+		<rom name="Radioactivity (201x)(Kisioj).zip" size="297441" crc="EA18553A"/>
+	</game>
+	<game name="Retro Roleplay v5.1 (2019-07-31)(King zelda)">
+		<description>Retro Roleplay v5.1 (2019-07-31)(King zelda)</description>
+		<rom name="Retro Roleplay v5.1 (2019-07-31)(King zelda).zip" size="3306498" crc="F7BA474B"/>
+	</game>
+	<game name="Rise Of Heroes(20xx)(Xerse)">
+		<description>Rise Of Heroes(20xx)(Xerse)</description>
+		<rom name="Rise Of Heroes(20xx)(Xerse).zip" size="739484" crc="DC0C2890"/>
+	</game>
+	<game name="Rise of the Pirates(2019-01-17)(Ravanok)(Steam ver de 2019-10-24)">
+		<description>Rise of the Pirates(2019-01-17)(Ravanok)(Steam ver de 2019-10-24)</description>
+		<rom name="Rise of the Pirates(2019-01-17)(Ravanok)(Steam ver de 2019-10-24).zip" size="8318168" crc="E7301C08"/>
+	</game>
+	<game name="Save Our Survivors (aka SOS) (2013-05)(brettpenzer)">
+		<description>Save Our Survivors (aka SOS) (2013-05)(brettpenzer)</description>
+		<rom name="Save Our Survivors (aka SOS) (2013-05)(brettpenzer).7z" size="272651" crc="9C241F8B"/>
+	</game>
+	<game name="Shooter (2009-01-25)(Nickr5)">
+		<description>Shooter (2009-01-25)(Nickr5)</description>
+		<rom name="Shooter (2009-01-25)(Nickr5).zip" size="92901" crc="5183C43E"/>
+	</game>
+	<game name="Shootha (2009)(Phat T)">
+		<description>Shootha (2009)(Phat T)</description>
+		<rom name="Shootha (2009)(Phat T).zip" size="84157654" crc="EC746175"/>
+	</game>
+	<game name="Space Station 13 Early Build (2004)(uploaded by exadv1)">
+		<description>Space Station 13 Early Build (2004)(uploaded by exadv1)</description>
+		<rom name="Space Station 13 Early Build (2004)(uploaded by exadv1).zip" size="448298" crc="B5043124"/>
+	</game>
+	<game name="Spires of Agartha (2018-08)(Pixel Game Studios)">
+		<description>Spires of Agartha (2018-08)(Pixel Game Studios)</description>
+		<rom name="Spires of Agartha (2018-08)(Pixel Game Studios).zip" size="59916137" crc="25CDFC1C"/>
+	</game>
+	<game name="Stark Realities (2022-03-22)(ease)(patched 2022-01-10)">
+		<description>Stark Realities (2022-03-22)(ease)(patched 2022-01-10)</description>
+		<rom name="Stark Realities (2022-03-22)(ease)(patched 2022-01-10).zip" size="83854" crc="49A70EF7"/>
+	</game>
+	<game name="SurviveThis! (2009-07-24)(Acebloke)(LastInclPatch-2021-10-31).7z">
+		<description>SurviveThis! (2009-07-24)(Acebloke)(LastInclPatch-2021-10-31).7z</description>
+		<rom name="SurviveThis! (2009-07-24)(Acebloke)(LastInclPatch-2021-10-31).7z.zip" size="538779" crc="792B0157"/>
+	</game>
+	<game name="Virus (2006-07)(blakdragon77)">
+		<description>Virus (2006-07)(blakdragon77)</description>
+		<rom name="Virus (2006-07)(blakdragon77).zip" size="151867" crc="15040674"/>
+	</game>
+	<game name="Wargames (2005-09-19)(Acebloke)(patched thrU 2021-04-03)">
+		<description>Wargames (2005-09-19)(Acebloke)(patched thrU 2021-04-03)</description>
+		<rom name="Wargames (2005-09-19)(Acebloke)(patched thrU 2021-04-03).zip" size="1869889" crc="1D85E31D"/>
+	</game>
+	<game name="Zenith&apos;s Call (2020)(zete)">
+		<description>Zenith&apos;s Call (2020)(zete)</description>
+		<rom name="Zenith&apos;s Call (2020)(zete).zip" size="120130208" crc="3AD0E893"/>
+	</game>
+	<game name="Zombies In Your Face (2011-10)(Darker Emerald)">
+		<description>Zombies In Your Face (2011-10)(Darker Emerald)</description>
+		<rom name="Zombies In Your Face (2011-10)(Darker Emerald).7z" size="52391" crc="F4377FA8"/>
+	</game>
+	<game name="Zombies in your Face (20xx)(Darker Emerald)">
+		<description>Zombies in your Face (20xx)(Darker Emerald)</description>
+		<rom name="Zombies in your Face (20xx)(Darker Emerald).zip" size="90112" crc="9075E610"/>
+	</game>
+	<game name="Zombies! (2010)(Kumorii)">
+		<description>Zombies! (2010)(Kumorii)</description>
+		<rom name="Zombies! (2010)(Kumorii).zip" size="276042" crc="4DC88A40"/>
+	</game>
+</datafile>

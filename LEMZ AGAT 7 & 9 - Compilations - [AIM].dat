@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>LEMZ AGAT 7 &amp; 9 - Compilations - [AIM]</name>
+		<description>LEMZ AGAT 7 &amp; 9 - Compilations - [AIM]</description>
+		<version>X</version>
+		<date>1/7/2022</date>
+		<author>auncollective</author>
+		<category>x</category>
+		<homepage>x</homepage>
+		<email>x</email>
+	</header>
+	<game name="A2GAMES (19xx)( - )(ru)">
+		<description>A2GAMES (19xx)( - )(ru)</description>
+		<rom name="A2GAMES (19xx)( - )(ru).AIM" size="2068480" crc="6016CB03" md5="3CE485E12F9417FAAD77A7EFB79A122C" sha1="B0B81D0DDC388773C2EB229064DA720C3DA34515"/>
+	</game>
+	<game name="Baba-jaga, Bjurokrat, Pilot, Football(19xx)(USR SoftWare)(ru)(AGAT-9)">
+		<description>Baba-jaga, Bjurokrat, Pilot, Footballc(19xx)(USR SoftWare)(ru)(AGAT-9)</description>
+		<rom name="Baba-jaga, Bjurokrat, Pilot, Footballc(19xx)(USR SoftWare)(ru)(AGAT-9).aim" size="2068480" crc="7D118D1A" md5="E2A9A826483264FEB906220CFD7034A7" sha1="B5745BD45005B560EAC97742699CB16A288CA5FA"/>
+	</game>
+	<game name="Games of Oleg Voronov (19xx)(Voronov, Oleg)(ru)">
+		<description>Games of Oleg Voronov (19xx)(Voronov, Oleg)(ru)</description>
+		<rom name="Games of Oleg Voronov (19xx)(Voronov, Oleg)(ru).aim" size="2068480" crc="C42960E0" md5="CAAAB632391C8D03969A9B6610C8D511" sha1="BE3BD2F28854E63D3349F6E397695D95B6E1599B"/>
+	</game>
+	<game name="Groom (1992), Leo (1993), MineSweeper(1992), Rock Stalker(1989), &amp; Rock Stalker II (1991)(FaMe Software) -(ru)(AGAT-9)">
+		<description>Groom (1992), Leo (1993), MineSweeper(1992), Rock Stalker(1989), &amp; Rock Stalker II (1991)(FaMe Software) -(ru)(AGAT-9)</description>
+		<rom name="Groom (1992), Leo (1993), MineSweeper(1992), Rock Stalker(1989), &amp; Rock Stalker II (1991)(FaMe Software) -(ru)(AGAT-9).aim" size="2068480" crc="79C53841" md5="CF049DE71B3C39C950CCED0E2361C35B" sha1="EAA39FECC72A1DF722CE66432D37FDEEB1112D83"/>
+	</game>
+</datafile>

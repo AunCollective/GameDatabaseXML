@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>BYOND - Books, Manuals, &amp; Other Documents</name>
+		<description>BYOND - Books, Manuals, &amp; Other Documents</description>
+		<version>0.1a</version>
+		<date>1/11/2022</date>
+		<author>Aun Egg</author>
+		<category>Development Platforms/Communities</category>
+		<homepage>https://www.auncollective.org</homepage>
+		<email>aunegg@auncollective.org</email>
+	</header>
+	<game name="Dream Maker, The - Designer&apos;s Guide to Worlds BYOND (2000)(Dantom)">
+		<description>Dream Maker, The - Designer&apos;s Guide to Worlds BYOND (2000)(Dantom)</description>
+		<rom name="Dream Maker, The - Designer&apos;s Guide to Worlds BYOND (2000)(Dantom).pdf" size="821836" crc="2B22D45A"/>
+	</game>
+</datafile>

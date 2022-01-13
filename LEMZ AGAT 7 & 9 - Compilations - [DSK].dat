@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>LEMZ AGAT 7 &amp; 9 - Compilations - [DSK]</name>
+		<description>LEMZ AGAT 7 &amp; 9 - Compilations - [DSK]</description>
+		<version>X</version>
+		<date>1/7/2022</date>
+		<author>auncollective</author>
+		<category>x</category>
+		<homepage>x</homepage>
+		<email>x</email>
+	</header>
+	<game name="Star Patrol (1987), Spy&apos;s Demise(1987), Star Blazer(1988) -(ALMAZ Software)">
+		<description>Star Patrol (1987), Spy&apos;s Demise(1987), Star Blazer(1988) -(ALMAZ Software)</description>
+		<rom name="Star Patrol (1987), Spy&apos;s Demise(1987), Star Blazer(1988) -(ALMAZ Software).DSK" size="860160" crc="381C81C4" md5="DE7318AA8A9DDE23D6173343BEBD9A6B" sha1="5F9BD055EB2A06CA0C36F18DAA862F3B5C961F31"/>
+	</game>
+	<game name="LabiRB (1987)(ALMAZ Software) &amp; Road (1987)(ALMAZ Software), Ohota na lis (1987)(ALMAZ Software) -(ru)">
+		<description>LabiRB (1987)(ALMAZ Software) &amp; Road (1987)(ALMAZ Software), Ohota na lis (1987)(ALMAZ Software) -(ru)</description>
+		<rom name="LabiRB (1987)(ALMAZ Software) &amp; Road (1987)(ALMAZ Software), Ohota na lis (1987)(ALMAZ Software) -(ru).dsk" size="143360" crc="EB9B0BD7" md5="9C41E9ACD765E62810032A37593AF196" sha1="DE6A34F7F3395ADFBDDB7D5BBBDD3733223BFDB8"/>
+	</game>
+	<game name="Piton, Pacman, Xonix (1986)(Golov, Alexander)(side B)(disk 2 of 2)(ru)">
+		<description>Piton, Pacman, Xonix (1986)(Golov, Alexander)(side B)(disk 2 of 2)(ru)</description>
+		<rom name="Piton, Pacman, Xonix (1986)(Golov, Alexander)(side B)(disk 2 of 2)(ru)" size="143360" crc="E70E7155" md5="500E2F68B29002D4EF697D34B2F5AF82" sha1="42F43E4C8E359E565FB5486C3EEF125D934653D6"/>
+	</game>
+	<game name="Piton, Pacman, Xonix (1986)(Golov, Alexander)(side A)(disk 1 of 2)(ru)">
+		<description>Piton, Pacman, Xonix (1986)(Golov, Alexander)(side A)(disk 1 of 2)(ru)</description>
+		<rom name="Piton, Pacman, Xonix (1986)(Golov, Alexander)(side A)(disk 1 of 2)(ru).dsk" size="143360" crc="9B4C1AB3" md5="F700E041747728B4A4CF7E9B7C82899A" sha1="1F3639356F5E540ADD1BB108B3365651D6FE7650"/>
+	</game>
+	<game name="Games from Estonia - Rally, Balls, Meteorites, Tank (19xx)(Various Authors)(Side A)">
+		<description>Games from Estonia - Rally, Balls, Meteorites, Tank (19xx)(Various Authors)(Side A)</description>
+		<rom name="Games from Estonia - Rally, Balls, Meteorites, Tank (19xx)(Various Authors)(Side A).dsk" size="143360" crc="5022D064" md5="BE41F6B334CFA2CBE55B561E3E5D5ADA" sha1="5172C7A0333526D1089A642474D1DAE353D794F4"/>
+	</game>
+	<game name="Games from Estonia - Rally, Balls, Meteorites, Tank (19xx)(Various Authors)(Side B)">
+		<description>Games from Estonia - Rally, Balls, Meteorites, Tank (19xx)(Various Authors)(Side B)</description>
+		<rom name="Games from Estonia - Rally, Balls, Meteorites, Tank (19xx)(Various Authors)(Side B).dsk" size="143360" crc="1AEA4485" md5="A7F7A0FD89150DFE598E700337A3D5C5" sha1="6B767BC336FDD9B4CB861F1B46D63F83FB07FA56"/>
+	</game>
+	<game name="Record, Backgammon, Hare and Lion, Star Patrol. (19xx)(Pustovoy, Y.)(ru)">
+		<description>Record, Backgammon, Hare and Lion, Star Patrol. (19xx)(Pustovoy, Y.)(ru)</description>
+		<rom name="Record, Backgammon, Hare and Lion, Star Patrol. (19xx)(Pustovoy, Y.)(ru).dsk" size="143360" crc="7DCDC234" md5="B13A562F25B7F381D573447681F89261" sha1="BDA147838C6BEA7D21AF2FBFD3B96930D91FEA37"/>
+	</game>
+	<game name="Maze, Madu, Night Driver (1990)(KOKORAAL)(ru)">
+		<description>Maze, Madu, Night Driver (1990)(KOKORAAL)(ru)</description>
+		<rom name="Maze, Madu, Night Driver (1990)(KOKORAAL)(ru).dsk" size="143360" crc="8F0AC684" md5="4CEEBCCA6BA46120DF6568A3404D632F" sha1="471E082490E30631A2FC618DE69E89C75C8D0E89"/>
+	</game>
+	<game name="Hit the saucer, Townships, Tennis, PAF. (19xx)( - )(ru)(BASIC60)">
+		<description>Hit the saucer, Townships, Tennis, PAF. (19xx)( - )(ru)(BASIC60)</description>
+		<rom name="Hit the saucer, Townships, Tennis, PAF. (19xx)( - )(ru)(BASIC60).dsk" size="143360" crc="8D3C3116" md5="B459C2F831743998A7E46B86727AEC14" sha1="ADA1564498D0D4BCD2C4380F8153765468B59CA0"/>
+	</game>
+</datafile>

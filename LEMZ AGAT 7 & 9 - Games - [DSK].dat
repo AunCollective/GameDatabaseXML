@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>LEMZ AGAT 7 &amp; 9 - Games - [DSK]</name>
+		<description>LEMZ AGAT 7 &amp; 9 - Games - [DSK]</description>
+		<version>x</version>
+		<date>1/7/2022</date>
+		<author>auncollective</author>
+		<category>x</category>
+		<homepage>x</homepage>
+		<email>x</email>
+	</header>
+	<game name="Arcanoid (198x)(SELEN)(ru)">
+		<description>Arcanoid (1990)(SELEN)(ru)</description>
+		<rom name="Arcanoid (1990)(SELEN)(ru).dsk" size="143360" crc="A03F3254" md5="1E759A770CFF22296748F82A13B50C16" sha1="3FC6DC09C3558E3103222CFA37958DB3C4D530B9"/>
+	</game>
+	<game name="Bomber (1991)(Leningrad Software Product)(ru)">
+		<description>Bomber (1991)(Leningrad Software Product)(ru)</description>
+		<rom name="Bomber (1991)(Leningrad Software Product)(ru).DSK" size="860160" crc="DCBF6625" md5="9F68C29DB88A43CBA034DC006D815F0B" sha1="B828F19749E6AC4B87E44D73DF586F1FB6B507DB"/>
+	</game>
+	<game name="Gav-Gav (aka Woof-wow) (199x)(Zyabrev,I.N., Bolshakov,A.S., Bolshakova,I.A., &amp; Khimki)(ru)">
+		<description>Gav-Gav (aka Woof-wow) (199x)(Zyabrev,I.N., Bolshakov,A.S., Bolshakova,I.A., &amp; Khimki)(ru)</description>
+		<rom name="Gav-Gav (aka Woof-wow) (199x)(Zyabrev,I.N., Bolshakov,A.S., Bolshakova,I.A., &amp; Khimki)(ru).DSK" size="860288" crc="2C02CC3A" md5="1CA96D324F7171C6576CD19D81C4FCB3" sha1="D739A2FD0B8C82EEF86C791CCA8BF01F98B8561B"/>
+	</game>
+	<game name="Rocker (1989)(ALT Software)(ru)">
+		<description>Rocker (1989)(ALT Software)(ru)</description>
+		<rom name="Rocker (1989)(ALT Software)(ru).dsk" size="143360" crc="FFB42BB2" md5="B7C0B14714A4F4D7CCEB873CC0887E8D" sha1="9B3A7B870B773170D15AD76E9CFEB7A7B300ABBD"/>
+	</game>
+	<game name="War in the Mountains (19xx)(Production USSR by Dmitriev)(ru)(AGAT-9)">
+		<description>War in the Mountains (19xx)(Production USSR by Dmitriev)(ru)(AGAT-9)</description>
+		<rom name="War in the Mountains (19xx)(Production USSR by Dmitriev)(ru)(AGAT-9).DSK" size="860160" crc="981E6FBF" md5="4DA711BB6171FBA866123A7FA06C333A" sha1="ED6DD9E331D92227D732812C4FE220B711FABD38"/>
+	</game>
+	<game name="Perestroika, Snake (1992)(D&amp;M)(ru)">
+		<description>Perestroika, Snake (1992)(D&amp;M)(ru)</description>
+		<rom name="Perestroika, Snake (1992)(D&amp;M)(ru).dsk" size="860160" crc="C316CF5E" md5="3A500934A2A16369A5960339B2169A92" sha1="2692F77024C53150D48CDDDF46FCB15147E2EDE8"/>
+	</game>
+	<game name="Diversant (1984)(Viktorovich, Levin)(ru)">
+		<description>Diversant (1984)(Viktorovich, Levin)(ru)</description>
+		<rom name="Diversant (1984)(Viktorovich, Levin)(ru)" size="143360" crc="12539130" md5="8A591CF713ABABC8AC2583D4F460E91B" sha1="E12EAB687205001FEAF8B243FA415B244FE06720"/>
+	</game>
+	<game name="Igra 35 (1987)(ALMAZ Software)(ru)">
+		<description>Igra 35 (1987)(ALMAZ Software)(ru)</description>
+		<rom name="Igra 35 (1987)(ALMAZ Software)(ru).DSK" size="860160" crc="CB40A8D3" md5="0F7FAFFBAE9E6811AA1E73EACFB04224" sha1="BDB6B6E2836360063E304BE2DF1F80D792DFF51B"/>
+	</game>
+	<game name="Riseout (198x)(Novosibirsk Hackers Association)(ru)">
+		<description>Riseout (198x)(Novosibirsk Hackers Association)(ru)</description>
+		<rom name="Riseout (198x)(Novosibirsk Hackers Association)(ru).DSK" size="860160" crc="3420C847" md5="C3F29D57051657DB5E7CF630BD43C364" sha1="66E73949C883A20E17224942885E354C5D2169DC"/>
+	</game>
+	<game name="Kling (aka Space Wars)(19xx)( - )(ru)(AGAT-9)">
+		<description>Kling (aka Space Wars)(19xx)( - )(ru)(AGAT-9)</description>
+		<rom name="Kling (aka Space Wars)(19xx)( - )(ru)(AGAT-9).DSK" size="860160" crc="62902B41" md5="190B9F75696664D6E21BBD88C6C43488" sha1="C033120B8B00F5BC20AE41F97FAE2563AFD552F9"/>
+	</game>
+	<game name="Tic Tac Toe (19xx)(Marchenko, Vladimir &amp; Dubovka, Nikolaevich)(ru)">
+		<description>&quot;Tic Tac Toe (19xx)(Marchenko, Vladimir &amp; Dubovka, Nikolaevich)(ru)</description>
+		<rom name="Tic Tac Toe (19xx)(Marchenko, Vladimir &amp; Dubovka, Nikolaevich)(ru).dsk" size="860160" crc="D72E99F3" md5="2F72319A1ED89F9895FE635E4D60F43C" sha1="92A761713C9C56B59314F4B5C5C760FB74D39C79"/>
+	</game>
+	<game name="Labirint (1987) &amp;  Vampir (1987) -(ALMAZ Software)(ru)">
+		<description>Labirint (1987) &amp;  Vampir (1987) -(ALMAZ Software)(ru)</description>
+		<rom name="Labirint (1987)(ALMAZ Software) &amp;  Vampir (1987)(ALMAZ Software) -(ru).DSK" size="860160" crc="B7402B52" md5="2BFFD625AC709216D16B7643E916D3B8" sha1="FBE24E5F66DC9EDC06DE01B0DB6B8EB55BC46A1B"/>
+	</game>
+	<game name="Fox Hunting (19xx)(Bulychev, I.V.)(ru)(AGAT-9)">
+		<description>Fox Hunting (19xx)(Bulychev, I.V.)(ru)(AGAT-9)</description>
+		<rom name="Fox Hunting (19xx)(Bulychev, I.V.)(ru)(AGAT-9).DSK" size="860160" crc="6B1CCC3B" md5="14164D3409A0FD76D21FA7927FC261DE" sha1="D2FE8B64214688CF055A45B7DD88E4C7673DB841"/>
+	</game>
+	<game name="Pango (aka Rango) (1989)(Elektrostal)(ru)">
+		<description>Pango (aka Rango) (1989)(Elektrostal)(ru)</description>
+		<rom name="Pango (aka Rango) (1989)(Elektrostal)(ru).DSK" size="860160" crc="57D8616B" md5="6E3C8AD319B02011D7D0027A39695430" sha1="3637CD45BAD2EA7A94EB5A35496EECAFAAA0DAC7"/>
+	</game>
+	<game name="Posadks ( - )( - )(ru)(AGAT-9)">
+		<description>Posadks ( - )( - )(ru)(AGAT-9)</description>
+		<rom name="Posadks ( - )( - )(ru)(AGAT-9).DSK" size="860160" crc="D055844C" md5="0DACDB3819CDABE185EAD6F6F0CC0093" sha1="050726CF4E53CF24CA5D479033C1066EBCEC8B51"/>
+	</game>
+	<game name="Pusher (1990)(ALMAZ Software)(ru)">
+		<description>Pusher (1990)(ALMAZ Software)(ru)</description>
+		<rom name="Pusher (1990)(ALMAZ Software)(ru).DSK" size="860160" crc="09CCA4A3" md5="C17A17BAAB1F24039A971A249AC1C088" sha1="6CA980EC922056CE09A5502394DD6C22565B9182"/>
+	</game>
+	<game name="Rocker&apos;s Lair (1993)(Ignatov, S.)(ru)">
+		<description>Rocker&apos;s Lair (1993)(Ignatov, S.)(ru)</description>
+		<rom name="Rocker&apos;s Lair (1993)(Ignatov, S.)(ru).DSK" size="860160" crc="29BBCF35" md5="17038A04FB4D1EEFE7BFB8AA2FC7CB52" sha1="DE99261E2B7274AB530B1CFD4DCB408B775ED09C"/>
+	</game>
+	<game name="Kubik Rubika (1982)(HTK)(ru)">
+		<description>Kubik Rubika (1982)(HTK)(ru)</description>
+		<rom name="Kubik Rubika (1982)(HTK)(ru).dsk" size="860160" crc="9A3DD9AB" md5="DF1652339326E55D1261E41232DFB3D0" sha1="81785F4B1114750CB0D0B1B439103C7CFD7CD5A9"/>
+	</game>
+	<game name="Shamus (1989)(AKM GAMESOFT)(ru)">
+		<description>Shamus (1989)(AKM GAMESOFT)(ru)</description>
+		<rom name="Shamus (1989)(AKM GAMESOFT)(ru).DSK" size="143360" crc="EE574995" md5="65382505B05A7D6A89BBC8BE20FB8615" sha1="1704DC353AFD789A9A74AB5D9A4A08122AECE330"/>
+	</game>
+	<game name="KOSMOS (aka SPACE) (1989)(Alekhin, M. &amp; Belyakov, K.)(ru)">
+		<description>KOSMOS (aka SPACE) (1989)(Alekhin, M. &amp; Belyakov, K.)(ru)</description>
+		<rom name="KOSMOS (aka SPACE) (1989)(Alekhin, M. &amp; Belyakov, K.)(ru).DSK" size="860160" crc="2578BDFF" md5="B56E8EC10F9601BF4841187970EAB7A3" sha1="0B4F9AAE661565FBCEB1365849265105B28A6FFA"/>
+	</game>
+	<game name="Tetris (1988)(Leningrad Software Product)(ru)">
+		<description>Tetris (1988)(Leningrad Software Product)(ru)</description>
+		<rom name="Tetris (1988)(Leningrad Software Product)(ru).DSK" size="860160" crc="A3B8A785" md5="73DBE580F20D23DB2D95930C6D0E4960" sha1="5133D47B5C5765364B51CA66190429973FCACFF3"/>
+	</game>
+</datafile>

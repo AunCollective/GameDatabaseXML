@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>LEMZ AGAT 7 &amp; 9 - Compilations - [NIB]</name>
+		<description>LEMZ AGAT 7 &amp; 9 - Compilations - [NIB]</description>
+		<version>X</version>
+		<date>1/7/2022</date>
+		<author>auncollective</author>
+		<category>x</category>
+		<homepage>x</homepage>
+		<email>x</email>
+	</header>
+	<game name="Alien Ambush (1981), Bolo(1988), Draw Poker(1981), Autobahn (1981) &amp; Horizon (1982) -(Leningrad Software Product)(ru)">
+		<description>Alien Ambush (1981), Bolo(1988), Draw Poker(1981), Autobahn (1981) &amp; Horizon (1982) -(Leningrad Software Product)(ru)</description>
+		<rom name="Alien Ambush (1981), Bolo(1988), Draw Poker(1981), Autobahn (1981) &amp; Horizon (1982) -(Leningrad Software Product)(ru).nib" size="232960" crc="1488730C" md5="CC4DAC179D7CD1EE4D7595671118F140" sha1="97DD6553F1FAF60E5B61BCBA1AC3F267E8010535"/>
+	</game>
+	<game name="Anaphalus &amp; Reversi (198x)(Levin,Mikhail) &amp; Checkers (1984)(Levin, Mikhail &amp; Efimovich, Brun)(ru)">
+		<description>Anaphalus &amp; Reversi (198x)(Levin,Mikhail) &amp; Checkers (1984)(Levin, Mikhail &amp; Efimovich, Brun)(ru)</description>
+		<rom name="Anaphalus &amp; Reversi (198x)(Levin,Mikhail) &amp; Checkers (1984)(Levin, Mikhail &amp; Efimovich, Brun)(ru).nib" size="232960" crc="ADF03B74" md5="550D911E5AB83C3A3C92BE3EF493712B" sha1="D2CA4C3B5AD44C18BD9B24D161D22E9A4AB8C1B8"/>
+	</game>
+	<game name="Apple Games SuperDisk (199x)(USN)(ru)">
+		<description>Apple Games SuperDisk (199x)(USN)(ru)</description>
+		<rom name="Apple Games SuperDisk (199x)(USN)(ru).nib" size="947520" crc="269D12B9" md5="4D29B59248922EB1A03BE9696592FFEC" sha1="198CC86FD40D0E0D696E55713CCD55757D514C46"/>
+	</game>
+	<game name="Grafičeskij (1986), Tetris (1987), Bomb (1989) -(Leningrad Software Product)(ru)">
+		<description>Grafičeskij (1986), Tetris (1987), Bomb (1989) -(Leningrad Software Product)(ru)</description>
+		<rom name="Grafičeskij (1986), Tetris (1987), Bomb (1989) -(Leningrad Software Product)(ru).NIB" size="232960" crc="41CCA8C0" md5="87FEF3ABE0545307E900A6FD87E3D4BB" sha1="3DBDB1FB59278F1D5E625388D4CDA4AAE4748D7E"/>
+	</game>
+</datafile>

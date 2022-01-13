@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>BYOND - Applications &amp; Utilities</name>
+		<description>BYOND - Applications &amp; Utilities</description>
+		<version>0.1a</version>
+		<date>1/11/2022</date>
+		<author>Aun Egg</author>
+		<category>Development Platforms/Communities</category>
+		<homepage>https://www.auncollective.org</homepage>
+		<email>aunegg@auncollective.org</email>
+	</header>
+	<game name="AdamAI AIChat (2021-11-03)(Zelldot)">
+		<description>AdamAI AIChat (2021-11-03)(Zelldot)</description>
+		<rom name="AdamAI AIChat (2021-11-03)(Zelldot).7z" size="418682" crc="E7A327BC"/>
+	</game>
+	<game name="AIChat - Interfaceless (2021-11-03)(Zelldot)">
+		<description>AIChat - Interfaceless (2021-11-03)(Zelldot)</description>
+		<rom name="AIChat - Interfaceless (2021-11-03)(Zelldot).7z" size="292050" crc="340E3A05"/>
+	</game>
+	<game name="Circuitry (2013-06)(cccel)">
+		<description>Circuitry (2013-06)(cccel)</description>
+		<rom name="Circuitry (2013-06)(cccel).7z" size="15827" crc="C5632B34"/>
+	</game>
+	<game name="RP Basic (2014-06-01)(Arctangent)(LastUpdate-2015-04-19)">
+		<description>RP Basic (2014-06-01)(Arctangent)(LastUpdate-2015-04-19)</description>
+		<rom name="RP Basic (2014-06-01)(Arctangent)(LastUpdate-2015-04-19).7z" size="27076" crc="DB93C3AE"/>
+	</game>
+	<game name="RP Radio CE (2017)(mistahmage123)">
+		<description>RP Radio CE (2017)(mistahmage123)</description>
+		<rom name="RP Radio CE (2017)(mistahmage123).zip" size="66378395" crc="99D0306A"/>
+	</game>
+	<game name="RPG Starter v1.9 (2009-04-19)(TheStrai)">
+		<description>RPG Starter v1.9 (2009-04-19)(TheStrai)</description>
+		<rom name="RPG Starter v1.9 (2009-04-19)(TheStrai).zip" size="94349" crc="9D4D8291"/>
+	</game>
+	<game name="Server Rebooter (2009-07)(bunnie)">
+		<description>Server Rebooter (2009-07)(bunnie)</description>
+		<rom name="Server Rebooter (2009-07)(bunnie).7z" size="11377" crc="D1AC7729"/>
+	</game>
+	<game name="Studia (2015-03-31)(Xirre)">
+		<description>Studia (2015-03-31)(Xirre)</description>
+		<rom name="Studia (2015-03-31)(Xirre).zip" size="12181" crc="A1FDFAFC"/>
+	</game>
+</datafile>

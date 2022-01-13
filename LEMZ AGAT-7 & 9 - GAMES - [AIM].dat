@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "" "">
+<datafile build="" debug="no">
+	<header>
+		<name>LEMZ AGAT-7 and AGAT-9 - Games - [AIM]</name>
+		<description>LEMZ AGAT-7 and AGAT-9 - Games - [AIM]</description>
+		<version>test</version>
+		<date>1/8/2022</date>
+		<author>auncollective</author>
+		<category></category>
+		<homepage></homepage>
+		<email></email>
+	</header>
+	<game name="Best Game, The (19xx)(USN)(ru)(AGAT-9)">
+		<description>Best Game, The (19xx)(USN)(ru)(AGAT-9)</description>
+		<rom name="Best Game, The (19xx)(USN)(ru)(AGAT-9),aim" size="2068480" crc="F08D5E7D" md5="33B47153E2108A398A6BC0C69F4B71B5" sha1="BDB0DA09686E6D958858282C25B440143A0A0BCB"/>
+	</game>
+	<game name="Dolina Faraonov (aka King&apos;s Valley)(1994)(USN)(ru)">
+		<description>Dolina Faraonov (aka King&apos;s Valley)(1994)(USN)(ru)</description>
+		<rom name="Dolina Faraonov (aka King&apos;s Valley)(1994)(USN)(ru).aim" size="2068480" crc="606826EE" md5="4F9EA6312B8CBB56607BEA079F1DEA0D" sha1="0C3FA10A88C258C62365269A4CCB1B0E16E75677"/>
+	</game>
+	<game name="Karateka &amp; Knightlore (1989)(ALV Software)(ru)">
+		<description>Karateka &amp; Knightlore (1989)(ALV Software)(ru)</description>
+		<rom name="Karateka &amp; Knightlore (1989)(ALV Software)(ru).aim" size="2068480" crc="5A43415C" md5="E0F130077A04EDFE870F327666744321" sha1="2B728F5395DF4372AA21E1C412CA416B6B275203"/>
+	</game>
+	<game name="King-City (1994)(Dmitry, S., Gavrilov, A. &amp; Rustam, O.)(ru)">
+		<description>King-City (1994)(Dmitry, S., Gavrilov, A. &amp; Rustam, O.)(ru)</description>
+		<rom name="King-City (1994)(Dmitry, S., Gavrilov, A. &amp; Rustam, O.)(ru).aim" size="2068480" crc="55665296" md5="D6F3D4A1488BD09295BF52C50F7AFCE1" sha1="846AF326C4525B108CC63F8C743E8C7F886070A3"/>
+	</game>
+	<game name="Klondike (1992)(ALMAZ Software)(ru)(AGAT-9)">
+		<description>Klondike (1992)(ALMAZ Software)(ru)(AGAT-9)</description>
+		<rom name="Klondike (1992)(ALMAZ Software)(ru)(AGAT-9).aim" size="2068480" crc="226A5CF0" md5="C2602129F1F47A7746493929C944A072" sha1="FA0E703C59D3D6C030A553CF10DC144902456B75"/>
+	</game>
+	<game name="Nepekpectok (aka Robot Odissey) (19xx)(Volzhsky)(ru)">
+		<description>Nepekpectok (aka Robot Odissey) (19xx)(Volzhsky)(ru)(AGAT-9)</description>
+		<rom name="Nepekpectok (aka Robot Odissey) (19xx)(Volzhsky)(ru).aim" size="2068480" crc="EC51A709" md5="E6CEAD871FCAA39A05D0B39BAB1E4C5F" sha1="F4ED0308BA42ED62461393F13BEBC01B956ECC81"/>
+	</game>
+</datafile>
